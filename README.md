@@ -12,9 +12,9 @@ Optimal clustering at k = 2, confirmed by Elbow and Silhouette methods
 
 Two athletic archetypes emerged:
 
-Cluster 1: Speed & agility (WR, CB, S profiles)
+- Cluster 1: Speed & agility (WR, CB, S profiles)
 
-Cluster 2: Size & strength (TE, LB, QB profiles)
+- Cluster 2: Size & strength (TE, LB, QB profiles)
 
 Strong alignment with real-world positions, despite excluding position data
 
